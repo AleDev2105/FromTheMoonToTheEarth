@@ -1,0 +1,12 @@
+{
+  "type": "thermal:press",
+  "group": "emendatusenigmatica:compat_recipe",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/iridium"
+    }
+  ],
+  "results": {
+    "item": "emendatusenigmatica:iridium_plate"
+  }
+}

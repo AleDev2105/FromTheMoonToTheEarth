@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "ingredient": {
+      "tag": "mekanism:clumps/charoite"
+    }
+  },
+  "output": {
+    "item": "emendatusenigmatica:charoite_dirty_dust"
+  }
+}

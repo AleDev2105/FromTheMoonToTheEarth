@@ -1,0 +1,12 @@
+{
+  "type": "thermal:press",
+  "group": "emendatusenigmatica:compat_recipe",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/horizonite"
+    }
+  ],
+  "results": {
+    "item": "emendatusenigmatica:horizonite_plate"
+  }
+}

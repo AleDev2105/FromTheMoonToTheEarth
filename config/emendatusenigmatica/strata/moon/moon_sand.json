@@ -1,0 +1,9 @@
+{
+    "id": "moon_sand",
+    "baseTexture": "ad_astra:block/moon_sand",
+    "suffix": "moon_sand",
+    "fillerType": "ad_astra:moon_sand",
+    "localizedName": "Moon Sand",
+    "harvestTool": "pickaxe",
+    "sampleStrata": false
+}

@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "ingredient": {
+      "tag": "mekanism:clumps/quartz"
+    }
+  },
+  "output": {
+    "item": "emendatusenigmatica:quartz_dirty_dust"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "cobalt",
+  "source": "modded",
+  "localizedName": "Cobalt",
+  "processedTypes": [
+    "ore",
+    "storage_block",
+    "ingot",
+    "nugget",
+    "raw",
+    "dust",
+    "plate",
+    "gear",
+    "rod",
+    "sword",
+    "pickaxe",
+    "axe",
+    "shovel",
+    "hoe",
+    "paxel",
+    "helmet",
+    "chestplate",
+    "leggings",
+    "boots",
+    "fluid",
+    "slurry",
+    "crystal",
+    "shard",
+    "clump",
+    "dirty_dust",
+    "gas"
+  ],
+  "properties": {
+    "materialType": "metal",
+    "harvestLevel": 2,
+    "isEmissive": true
+  },
+  "oreDrop": {
+    "drop": "emendatusenigmatica:raw_cobalt",
+    "min": 1,
+    "max": 1
+  },
+  "colors": {
+    "fluidColor": "235197",
+    "gasColor":"235197"
+  }
+}

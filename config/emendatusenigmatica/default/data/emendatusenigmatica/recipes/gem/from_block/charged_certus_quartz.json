@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "emendatusenigmatica",
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/charged_certus_quartz"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "emendatusenigmatica:charged_certus_quartz_gem"
+  }
+}

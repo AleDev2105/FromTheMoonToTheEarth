@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emendatusenigmatica",
+  "key": {
+    "G": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "G",
+    "G"
+  ],
+  "result": {
+    "item": "emendatusenigmatica:redstone_rod"
+  }
+}

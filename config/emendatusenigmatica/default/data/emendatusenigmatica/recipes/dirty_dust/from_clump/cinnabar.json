@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "ingredient": {
+      "tag": "mekanism:clumps/cinnabar"
+    }
+  },
+  "output": {
+    "item": "emendatusenigmatica:cinnabar_dirty_dust"
+  }
+}

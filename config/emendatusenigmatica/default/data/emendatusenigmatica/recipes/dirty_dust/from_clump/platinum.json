@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "ingredient": {
+      "tag": "mekanism:clumps/platinum"
+    }
+  },
+  "output": {
+    "item": "emendatusenigmatica:platinum_dirty_dust"
+  }
+}

@@ -1,0 +1,32 @@
+{
+    "id": "soul_steel",
+    "source": "modded",
+    "localizedName": "Soul Steel",
+    "processedTypes": [
+        "storage_block",
+        "ingot",
+        "nugget",
+        "dust",
+        "plate",
+        "gear",
+        "rod",
+        "sword",
+        "pickaxe",
+        "axe",
+        "shovel",
+        "hoe",
+        "paxel",
+        "helmet",
+        "chestplate",
+        "leggings",
+        "boots",
+        "fluid"
+    ],
+    "properties": {
+        "materialType": "alloy",
+        "harvestLevel": 2
+    },
+    "colors": {
+        "fluidColor": "607485"
+    }
+}

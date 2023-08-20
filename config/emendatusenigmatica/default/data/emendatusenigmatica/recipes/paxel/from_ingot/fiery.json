@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emendatusenigmatica",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "emendatusenigmatica:fiery_axe"
+    },
+    "P": {
+      "item": "emendatusenigmatica:fiery_pickaxe"
+    },
+    "S": {
+      "item": "emendatusenigmatica:fiery_shovel"
+    }
+  },
+  "pattern": [
+    "PAS",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "emendatusenigmatica:fiery_paxel"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "ingredient": {
+      "tag": "mekanism:clumps/titanium"
+    }
+  },
+  "output": {
+    "item": "emendatusenigmatica:titanium_dirty_dust"
+  }
+}

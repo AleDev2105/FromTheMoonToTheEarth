@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "emendatusenigmatica",
+  "ingredients": [
+    {
+      "tag": "forge:storage_blocks/cobalt"
+    }
+  ],
+  "result": {
+    "count": 9,
+    "item": "emendatusenigmatica:cobalt_ingot"
+  }
+}

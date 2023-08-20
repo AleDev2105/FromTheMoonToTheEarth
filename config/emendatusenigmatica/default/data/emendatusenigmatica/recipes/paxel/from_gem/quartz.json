@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emendatusenigmatica",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "emendatusenigmatica:quartz_axe"
+    },
+    "P": {
+      "item": "emendatusenigmatica:quartz_pickaxe"
+    },
+    "S": {
+      "item": "emendatusenigmatica:quartz_shovel"
+    }
+  },
+  "pattern": [
+    "PAS",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "emendatusenigmatica:quartz_paxel"
+  }
+}

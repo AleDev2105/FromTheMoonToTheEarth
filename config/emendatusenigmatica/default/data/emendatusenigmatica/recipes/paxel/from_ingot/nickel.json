@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emendatusenigmatica",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "emendatusenigmatica:nickel_axe"
+    },
+    "P": {
+      "item": "emendatusenigmatica:nickel_pickaxe"
+    },
+    "S": {
+      "item": "emendatusenigmatica:nickel_shovel"
+    }
+  },
+  "pattern": [
+    "PAS",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "emendatusenigmatica:nickel_paxel"
+  }
+}

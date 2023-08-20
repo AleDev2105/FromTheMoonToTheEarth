@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emendatusenigmatica",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "emendatusenigmatica:lumium_axe"
+    },
+    "P": {
+      "item": "emendatusenigmatica:lumium_pickaxe"
+    },
+    "S": {
+      "item": "emendatusenigmatica:lumium_shovel"
+    }
+  },
+  "pattern": [
+    "PAS",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "emendatusenigmatica:lumium_paxel"
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "emendatusenigmatica:items/charged_certus_quartz_pickaxe"
+  }
+}

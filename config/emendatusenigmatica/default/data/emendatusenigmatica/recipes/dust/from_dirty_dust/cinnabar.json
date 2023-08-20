@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:enriching",
+  "input": {
+    "ingredient": {
+      "tag": "mekanism:dirty_dusts/cinnabar"
+    }
+  },
+  "output": {
+    "item": "emendatusenigmatica:cinnabar_dust"
+  }
+}

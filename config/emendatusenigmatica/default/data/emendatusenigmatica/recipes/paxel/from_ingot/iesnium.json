@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emendatusenigmatica",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "emendatusenigmatica:iesnium_axe"
+    },
+    "P": {
+      "item": "emendatusenigmatica:iesnium_pickaxe"
+    },
+    "S": {
+      "item": "emendatusenigmatica:iesnium_shovel"
+    }
+  },
+  "pattern": [
+    "PAS",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "emendatusenigmatica:iesnium_paxel"
+  }
+}

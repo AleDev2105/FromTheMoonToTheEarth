@@ -1,0 +1,15 @@
+{
+  "type": "mekanism:purifying",
+  "chemicalInput": {
+    "amount": 1,
+    "gas": "mekanism:oxygen"
+  },
+  "itemInput": {
+    "ingredient": {
+      "tag": "mekanism:shards/certus_quartz"
+    }
+  },
+  "output": {
+    "item": "emendatusenigmatica:certus_quartz_clump"
+  }
+}

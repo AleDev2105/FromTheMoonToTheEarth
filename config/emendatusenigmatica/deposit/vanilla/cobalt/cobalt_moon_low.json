@@ -1,0 +1,21 @@
+{
+    "type": "emendatusenigmatica:vanilla_deposit",
+    "dimension": "ad_astra:moon",
+    "biomes": [
+      "ad_astra:lunar_wastelands"
+    ],
+    "registryName": "cobalt_moon_low",
+    "config": {
+      "material": "cobalt",
+      "fillerTypes": [
+        "moon_sand", 
+        "moon_stone"
+      ],
+      "chance": 20,
+      "size": 8,
+      "minYLevel": -50,
+      "maxYLevel": 10,
+      "placement": "uniform",
+      "rarity": "common"
+    }
+  }

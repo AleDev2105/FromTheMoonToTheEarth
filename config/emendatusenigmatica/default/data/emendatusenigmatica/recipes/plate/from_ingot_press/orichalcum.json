@@ -1,0 +1,12 @@
+{
+  "type": "thermal:press",
+  "group": "emendatusenigmatica:compat_recipe",
+  "ingredients": [
+    {
+      "tag": "forge:ingots/orichalcum"
+    }
+  ],
+  "results": {
+    "item": "emendatusenigmatica:orichalcum_plate"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emendatusenigmatica",
+  "key": {
+    "G": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "G G",
+    "GGG",
+    "GGG"
+  ],
+  "result": {
+    "item": "emendatusenigmatica:diamond_chestplate"
+  }
+}

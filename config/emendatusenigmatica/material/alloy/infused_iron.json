@@ -1,0 +1,32 @@
+{
+    "id": "infused_iron",
+    "source": "modded",
+    "localizedName": "Infused Iron",
+    "processedTypes": [
+        "storage_block",
+        "ingot",
+        "nugget",
+        "dust",
+        "plate",
+        "gear",
+        "rod",
+        "sword",
+        "pickaxe",
+        "axe",
+        "shovel",
+        "hoe",
+        "paxel",
+        "helmet",
+        "chestplate",
+        "leggings",
+        "boots",
+        "fluid"
+    ],
+    "properties": {
+        "materialType": "alloy",
+        "harvestLevel": 2
+    },
+    "colors": {
+        "fluidColor": "5ABC6A"
+    }
+}

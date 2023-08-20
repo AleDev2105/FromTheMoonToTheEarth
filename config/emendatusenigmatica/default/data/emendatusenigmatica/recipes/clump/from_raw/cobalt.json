@@ -1,0 +1,16 @@
+{
+  "type": "mekanism:purifying",
+  "chemicalInput": {
+    "amount": 1,
+    "gas": "mekanism:oxygen"
+  },
+  "itemInput": {
+    "ingredient": {
+      "tag": "forge:raw_materials/cobalt"
+    }
+  },
+  "output": {
+    "count": 2,
+    "item": "emendatusenigmatica:cobalt_clump"
+  }
+}

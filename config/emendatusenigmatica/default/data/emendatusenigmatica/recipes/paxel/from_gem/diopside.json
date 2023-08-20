@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emendatusenigmatica",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "emendatusenigmatica:diopside_axe"
+    },
+    "P": {
+      "item": "emendatusenigmatica:diopside_pickaxe"
+    },
+    "S": {
+      "item": "emendatusenigmatica:diopside_shovel"
+    }
+  },
+  "pattern": [
+    "PAS",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "emendatusenigmatica:diopside_paxel"
+  }
+}

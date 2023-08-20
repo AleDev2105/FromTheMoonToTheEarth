@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 0.5,
+  "ingredient": {
+    "tag": "forge:dusts/soul_steel"
+  },
+  "result": "emendatusenigmatica:soul_steel_ingot"
+}

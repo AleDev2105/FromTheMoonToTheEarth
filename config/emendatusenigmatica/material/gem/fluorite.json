@@ -1,0 +1,46 @@
+{
+    "id": "fluorite",
+    "source": "modded",
+    "localizedName": "Fluorite",
+    "processedTypes": [
+        "ore",
+        "storage_block",
+        "gem",
+        "dust",
+        "plate",
+        "gear",
+        "rod",
+        "sword",
+        "pickaxe",
+        "axe",
+        "shovel",
+        "hoe",
+        "paxel",
+        "helmet",
+        "chestplate",
+        "leggings",
+        "boots",
+        "cluster",
+        "fluid",
+        "slurry",
+        "crystal",
+        "shard",
+        "clump",
+        "dirty_dust",
+        "gas"
+    ],
+    "properties": {
+        "materialType": "gem",
+        "harvestLevel": 2,
+        "isEmissive": true
+    },
+    "oreDrop": {
+        "drop": "emendatusenigmatica:fluorite_gem",
+        "min": 1,
+        "max": 1
+    },
+    "colors": {
+        "fluidColor": "C7D8DF",
+        "gasColor":"C7D8DF"
+    }
+}

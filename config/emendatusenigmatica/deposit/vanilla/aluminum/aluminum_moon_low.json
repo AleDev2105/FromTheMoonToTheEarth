@@ -1,0 +1,21 @@
+{
+    "type": "emendatusenigmatica:vanilla_deposit",
+    "dimension": "ad_astra:moon",
+    "biomes": [
+      "ad_astra:lunar_wastelands"
+    ],
+    "registryName": "aluminum_moon_low",
+    "config": {
+      "material": "aluminum",
+      "fillerTypes": [
+        "moon_sand", 
+        "moon_stone"
+      ],
+      "chance": 15,
+      "size": 10,
+      "minYLevel": -50,
+      "maxYLevel": 20,
+      "placement": "uniform",
+      "rarity": "common"
+    }
+  }

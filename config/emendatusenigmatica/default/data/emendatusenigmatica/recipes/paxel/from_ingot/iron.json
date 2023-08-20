@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emendatusenigmatica",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "emendatusenigmatica:iron_axe"
+    },
+    "P": {
+      "item": "emendatusenigmatica:iron_pickaxe"
+    },
+    "S": {
+      "item": "emendatusenigmatica:iron_shovel"
+    }
+  },
+  "pattern": [
+    "PAS",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "emendatusenigmatica:iron_paxel"
+  }
+}

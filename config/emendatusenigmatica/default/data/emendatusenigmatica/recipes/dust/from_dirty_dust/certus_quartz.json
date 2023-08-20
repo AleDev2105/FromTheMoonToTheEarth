@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:enriching",
+  "input": {
+    "ingredient": {
+      "tag": "mekanism:dirty_dusts/certus_quartz"
+    }
+  },
+  "output": {
+    "item": "emendatusenigmatica:certus_quartz_dust"
+  }
+}

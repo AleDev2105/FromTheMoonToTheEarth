@@ -1,0 +1,32 @@
+{
+    "id": "electrum",
+    "source": "modded",
+    "localizedName": "Electrum",
+    "processedTypes": [
+        "storage_block",
+        "ingot",
+        "nugget",
+        "dust",
+        "plate",
+        "gear",
+        "rod",
+        "sword",
+        "pickaxe",
+        "axe",
+        "shovel",
+        "hoe",
+        "paxel",
+        "helmet",
+        "chestplate",
+        "leggings",
+        "boots",
+        "fluid"
+    ],
+    "properties": {
+        "materialType": "alloy",
+        "harvestLevel": 2
+    },
+    "colors": {
+        "fluidColor": "DEBA57"
+    }
+}

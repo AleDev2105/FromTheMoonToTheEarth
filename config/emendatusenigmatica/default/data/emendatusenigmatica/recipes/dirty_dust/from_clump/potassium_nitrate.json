@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "ingredient": {
+      "tag": "mekanism:clumps/potassium_nitrate"
+    }
+  },
+  "output": {
+    "item": "emendatusenigmatica:potassium_nitrate_dirty_dust"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "thermal:press",
+  "group": "emendatusenigmatica:compat_recipe",
+  "ingredients": [
+    {
+      "count": 4,
+      "tag": "forge:gems/charged_certus_quartz"
+    },
+    {
+      "item": "thermal:press_gear_die"
+    }
+  ],
+  "results": {
+    "item": "emendatusenigmatica:charged_certus_quartz_gear"
+  }
+}

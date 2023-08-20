@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emendatusenigmatica",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "G": {
+      "item": "minecraft:coal"
+    }
+  },
+  "pattern": [
+    "G",
+    "#",
+    "#"
+  ],
+  "result": {
+    "item": "emendatusenigmatica:coal_shovel"
+  }
+}

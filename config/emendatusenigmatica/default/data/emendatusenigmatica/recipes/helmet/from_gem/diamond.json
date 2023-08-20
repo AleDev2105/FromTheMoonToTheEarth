@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emendatusenigmatica",
+  "key": {
+    "G": {
+      "item": "minecraft:diamond"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "G G"
+  ],
+  "result": {
+    "item": "emendatusenigmatica:diamond_helmet"
+  }
+}

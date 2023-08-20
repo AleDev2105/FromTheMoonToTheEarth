@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emendatusenigmatica",
+  "key": {
+    "G": {
+      "tag": "forge:gems/cinnabar"
+    }
+  },
+  "pattern": [
+    "GGG",
+    "G G"
+  ],
+  "result": {
+    "item": "emendatusenigmatica:cinnabar_helmet"
+  }
+}

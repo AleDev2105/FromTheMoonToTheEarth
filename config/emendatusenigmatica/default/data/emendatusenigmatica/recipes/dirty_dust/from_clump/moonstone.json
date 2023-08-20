@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "ingredient": {
+      "tag": "mekanism:clumps/moonstone"
+    }
+  },
+  "output": {
+    "item": "emendatusenigmatica:moonstone_dirty_dust"
+  }
+}

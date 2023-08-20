@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emendatusenigmatica",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "emendatusenigmatica:redstone_axe"
+    },
+    "P": {
+      "item": "emendatusenigmatica:redstone_pickaxe"
+    },
+    "S": {
+      "item": "emendatusenigmatica:redstone_shovel"
+    }
+  },
+  "pattern": [
+    "PAS",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "emendatusenigmatica:redstone_paxel"
+  }
+}

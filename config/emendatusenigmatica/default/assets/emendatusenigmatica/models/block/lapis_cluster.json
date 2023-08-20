@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cross",
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "cross": "emendatusenigmatica:blocks/lapis_cluster",
+    "particle": "emendatusenigmatica:blocks/lapis_cluster"
+  }
+}

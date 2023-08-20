@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emendatusenigmatica",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "emendatusenigmatica:copper_axe"
+    },
+    "P": {
+      "item": "emendatusenigmatica:copper_pickaxe"
+    },
+    "S": {
+      "item": "emendatusenigmatica:copper_shovel"
+    }
+  },
+  "pattern": [
+    "PAS",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "emendatusenigmatica:copper_paxel"
+  }
+}

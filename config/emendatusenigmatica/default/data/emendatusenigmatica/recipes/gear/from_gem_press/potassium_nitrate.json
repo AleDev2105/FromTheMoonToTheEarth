@@ -1,0 +1,16 @@
+{
+  "type": "thermal:press",
+  "group": "emendatusenigmatica:compat_recipe",
+  "ingredients": [
+    {
+      "count": 4,
+      "tag": "forge:gems/potassium_nitrate"
+    },
+    {
+      "item": "thermal:press_gear_die"
+    }
+  ],
+  "results": {
+    "item": "emendatusenigmatica:potassium_nitrate_gear"
+  }
+}

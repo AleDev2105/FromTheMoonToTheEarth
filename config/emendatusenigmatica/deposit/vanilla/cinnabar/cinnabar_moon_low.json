@@ -1,0 +1,21 @@
+{
+    "type": "emendatusenigmatica:vanilla_deposit",
+    "dimension": "ad_astra:moon",
+    "biomes": [
+      "ad_astra:lunar_wastelands"
+    ],
+    "registryName": "cinnabar_moon_low",
+    "config": {
+      "material": "cinnabar",
+      "fillerTypes": [
+        "moon_sand", 
+        "moon_stone"
+      ],
+      "chance": 30,
+      "size": 4,
+      "minYLevel": -50,
+      "maxYLevel": 10,
+      "placement": "uniform",
+      "rarity": "common"
+    }
+  }

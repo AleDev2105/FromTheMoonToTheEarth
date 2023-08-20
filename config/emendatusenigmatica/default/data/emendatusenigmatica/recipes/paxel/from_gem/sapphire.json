@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emendatusenigmatica",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "emendatusenigmatica:sapphire_axe"
+    },
+    "P": {
+      "item": "emendatusenigmatica:sapphire_pickaxe"
+    },
+    "S": {
+      "item": "emendatusenigmatica:sapphire_shovel"
+    }
+  },
+  "pattern": [
+    "PAS",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "emendatusenigmatica:sapphire_paxel"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": false,
+  "bookData": {
+    "thermal:guidebook": {
+      "viewedEntries": [
+        "thermal:technology/65_items",
+        "thermal:equipment/tools/fluxbore"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emendatusenigmatica",
+  "key": {
+    "S": {
+      "item": "emendatusenigmatica:certus_quartz_cluster_shard"
+    }
+  },
+  "pattern": [
+    "SS",
+    "SS"
+  ],
+  "result": {
+    "item": "emendatusenigmatica:certus_quartz_cluster_shard_block"
+  }
+}

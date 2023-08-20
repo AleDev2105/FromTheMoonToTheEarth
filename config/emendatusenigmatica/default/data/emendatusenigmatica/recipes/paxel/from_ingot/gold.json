@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emendatusenigmatica",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "emendatusenigmatica:gold_axe"
+    },
+    "P": {
+      "item": "emendatusenigmatica:gold_pickaxe"
+    },
+    "S": {
+      "item": "emendatusenigmatica:gold_shovel"
+    }
+  },
+  "pattern": [
+    "PAS",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "emendatusenigmatica:gold_paxel"
+  }
+}

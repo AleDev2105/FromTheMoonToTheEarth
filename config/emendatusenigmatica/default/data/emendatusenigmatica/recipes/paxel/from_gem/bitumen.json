@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emendatusenigmatica",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "emendatusenigmatica:bitumen_axe"
+    },
+    "P": {
+      "item": "emendatusenigmatica:bitumen_pickaxe"
+    },
+    "S": {
+      "item": "emendatusenigmatica:bitumen_shovel"
+    }
+  },
+  "pattern": [
+    "PAS",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "emendatusenigmatica:bitumen_paxel"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "thermal:smelter",
+  "energy_mod": 0.5,
+  "group": "emendatusenigmatica:compat_recipe",
+  "ingredients": {
+    "tag": "forge:dusts/rose_gold"
+  },
+  "results": {
+    "count": 1,
+    "item": "emendatusenigmatica:rose_gold_ingot"
+  }
+}

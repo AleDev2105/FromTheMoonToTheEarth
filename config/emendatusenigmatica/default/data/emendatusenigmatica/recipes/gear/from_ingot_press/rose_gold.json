@@ -1,0 +1,16 @@
+{
+  "type": "thermal:press",
+  "group": "emendatusenigmatica:compat_recipe",
+  "ingredients": [
+    {
+      "count": 4,
+      "tag": "forge:ingots/rose_gold"
+    },
+    {
+      "item": "thermal:press_gear_die"
+    }
+  ],
+  "results": {
+    "item": "emendatusenigmatica:rose_gold_gear"
+  }
+}

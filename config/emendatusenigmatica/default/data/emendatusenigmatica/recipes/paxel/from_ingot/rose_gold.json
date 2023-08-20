@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emendatusenigmatica",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "emendatusenigmatica:rose_gold_axe"
+    },
+    "P": {
+      "item": "emendatusenigmatica:rose_gold_pickaxe"
+    },
+    "S": {
+      "item": "emendatusenigmatica:rose_gold_shovel"
+    }
+  },
+  "pattern": [
+    "PAS",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "emendatusenigmatica:rose_gold_paxel"
+  }
+}

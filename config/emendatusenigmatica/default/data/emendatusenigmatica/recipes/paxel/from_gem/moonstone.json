@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emendatusenigmatica",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "emendatusenigmatica:moonstone_axe"
+    },
+    "P": {
+      "item": "emendatusenigmatica:moonstone_pickaxe"
+    },
+    "S": {
+      "item": "emendatusenigmatica:moonstone_shovel"
+    }
+  },
+  "pattern": [
+    "PAS",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "emendatusenigmatica:moonstone_paxel"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:crystallizing",
+  "chemicalType": "slurry",
+  "input": {
+    "amount": 200,
+    "slurry": "emendatusenigmatica:clean_charged_certus_quartz"
+  },
+  "output": {
+    "item": "emendatusenigmatica:charged_certus_quartz_crystal"
+  }
+}

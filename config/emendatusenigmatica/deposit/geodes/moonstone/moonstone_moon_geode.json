@@ -1,0 +1,36 @@
+{
+    "type": "emendatusenigmatica:geode_deposit",
+    "dimension": "ad_astra:moon",
+    "biomes": [
+        "ad_astra:lunar_wastelands"
+    ],
+    "registryName": "moonstone_moon_geode",
+    "config": {
+        "outerShellBlocks": [
+            { "block": "ad_astra:moon_stone", "weight": 100 }
+        ],
+        "innerShellBlocks": [
+            { "block": "minecraft:calcite", "weight": 100 }
+        ],
+        "innerBlocks": [
+            { "block": "emendatusenigmatica:moonstone_cluster_shard_block", "weight": 80 },
+            { "block": "emendatusenigmatica:budding_moonstone", "weight": 20 }
+        ],
+        "clusters": [
+            "emendatusenigmatica:small_moonstone_bud",
+            "emendatusenigmatica:medium_moonstone_bud"
+        ],
+        "fillBlocks": [{"block": "minecraft:air", "weight": 90}],
+        "chance": 20,
+        "rarity": "rare",
+        "crackChance": 0.50,
+        "minYLevel": -50,
+        "maxYLevel": 60,
+        "generateSamples": false,
+        "sampleBlocks": [],
+        "fillerTypes": [
+            "moon_stone",
+            "moon_sand"
+        ]
+    }
+}

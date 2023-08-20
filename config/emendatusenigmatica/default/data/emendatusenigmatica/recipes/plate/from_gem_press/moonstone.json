@@ -1,0 +1,12 @@
+{
+  "type": "thermal:press",
+  "group": "emendatusenigmatica:compat_recipe",
+  "ingredients": [
+    {
+      "tag": "forge:gems/moonstone"
+    }
+  ],
+  "results": {
+    "item": "emendatusenigmatica:moonstone_plate"
+  }
+}

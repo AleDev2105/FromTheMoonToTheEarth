@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emendatusenigmatica",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "emendatusenigmatica:platinum_axe"
+    },
+    "P": {
+      "item": "emendatusenigmatica:platinum_pickaxe"
+    },
+    "S": {
+      "item": "emendatusenigmatica:platinum_shovel"
+    }
+  },
+  "pattern": [
+    "PAS",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "emendatusenigmatica:platinum_paxel"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emendatusenigmatica",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "emendatusenigmatica:enderium_axe"
+    },
+    "P": {
+      "item": "emendatusenigmatica:enderium_pickaxe"
+    },
+    "S": {
+      "item": "emendatusenigmatica:enderium_shovel"
+    }
+  },
+  "pattern": [
+    "PAS",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "emendatusenigmatica:enderium_paxel"
+  }
+}

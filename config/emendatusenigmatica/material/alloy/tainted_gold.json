@@ -1,0 +1,32 @@
+{
+    "id": "tainted_gold",
+    "source": "modded",
+    "localizedName": "Tainted Gold",
+    "processedTypes": [
+        "storage_block",
+        "ingot",
+        "nugget",
+        "dust",
+        "plate",
+        "gear",
+        "rod",
+        "sword",
+        "pickaxe",
+        "axe",
+        "shovel",
+        "hoe",
+        "paxel",
+        "helmet",
+        "chestplate",
+        "leggings",
+        "boots",
+        "fluid"
+    ],
+    "properties": {
+        "materialType": "alloy",
+        "harvestLevel": 2
+    },
+    "colors": {
+        "fluidColor": "D88E43"
+    }
+}

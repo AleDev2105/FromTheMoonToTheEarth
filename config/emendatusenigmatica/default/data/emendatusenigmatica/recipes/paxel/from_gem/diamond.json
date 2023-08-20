@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emendatusenigmatica",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "emendatusenigmatica:diamond_axe"
+    },
+    "P": {
+      "item": "emendatusenigmatica:diamond_pickaxe"
+    },
+    "S": {
+      "item": "emendatusenigmatica:diamond_shovel"
+    }
+  },
+  "pattern": [
+    "PAS",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "emendatusenigmatica:diamond_paxel"
+  }
+}

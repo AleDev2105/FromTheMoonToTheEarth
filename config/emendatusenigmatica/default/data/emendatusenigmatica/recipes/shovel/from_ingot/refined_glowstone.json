@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emendatusenigmatica",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "I": {
+      "tag": "forge:ingots/refined_glowstone"
+    }
+  },
+  "pattern": [
+    "I",
+    "#",
+    "#"
+  ],
+  "result": {
+    "item": "emendatusenigmatica:refined_glowstone_shovel"
+  }
+}

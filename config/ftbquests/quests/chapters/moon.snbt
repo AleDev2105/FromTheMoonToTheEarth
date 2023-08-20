@@ -1,0 +1,104 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "moon"
+	group: ""
+	icon: "ad_astra:moon_globe"
+	id: "51AB398D7FC083C4"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "59C08063004F5CA3"
+			tasks: [{
+				dimension: "ad_astra:moon"
+				id: "2DF0640938918831"
+				title: "Welcome to the Moon..."
+				type: "dimension"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["59C08063004F5CA3"]
+			icon: {
+				Count: 1b
+				id: "ad_astra:space_suit"
+				tag: {
+					BotariumData: { }
+					Damage: 0
+				}
+			}
+			id: "11CB9F5272E2084F"
+			subtitle: "Do you have your space suit?"
+			tasks: [{
+				id: "50C228C17A46A9FD"
+				title: "Space suit"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["59C08063004F5CA3"]
+			id: "63FF9BEC874DB93D"
+			subtitle: "Obtain a moon globe to certificate your journey"
+			tasks: [{
+				id: "50D2DBBE79FA1450"
+				item: "ad_astra:moon_globe"
+				type: "item"
+			}]
+			x: -1.5d
+			y: 0.0d
+		}
+		{
+			dependencies: ["59C08063004F5CA3"]
+			description: ["- Stages"]
+			icon: "ad_astra:wrench"
+			id: "6C296793E09CDE50"
+			subtitle: "Custom mechanics added in this modpack"
+			tasks: [{
+				id: "34AC332DCD84E53B"
+				title: "Custom mechanics"
+				type: "checkmark"
+			}]
+			title: "Custom mechanics"
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["59C08063004F5CA3"]
+			icon: "minecraft:grass_block"
+			id: "0C3F213034095089"
+			subtitle: "Welcome back Earth, or maybe not..."
+			tasks: [{
+				id: "08E21A91D6698910"
+				title: "Mission: return to the Earth"
+				type: "checkmark"
+			}]
+			x: -1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["59C08063004F5CA3"]
+			icon: {
+				Count: 1b
+				id: "emendatusenigmatica:emerald_paxel"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "15E6ACE8A162AB4C"
+			subtitle: "Custom items, tools, armors and much more..."
+			tasks: [{
+				id: "14E16990E9881B93"
+				title: "Everything is custom"
+				type: "checkmark"
+			}]
+			title: "Everything is custom"
+			x: 0.0d
+			y: 1.5d
+		}
+	]
+	title: "Moon"
+}

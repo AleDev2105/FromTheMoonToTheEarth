@@ -1,0 +1,16 @@
+{
+  "type": "mekanism:purifying",
+  "chemicalInput": {
+    "amount": 1,
+    "gas": "mekanism:oxygen"
+  },
+  "itemInput": {
+    "ingredient": {
+      "tag": "forge:ores/sapphire"
+    }
+  },
+  "output": {
+    "count": 3,
+    "item": "emendatusenigmatica:sapphire_clump"
+  }
+}

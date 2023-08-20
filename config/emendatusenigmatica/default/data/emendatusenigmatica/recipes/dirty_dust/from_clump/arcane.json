@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "ingredient": {
+      "tag": "mekanism:clumps/arcane"
+    }
+  },
+  "output": {
+    "item": "emendatusenigmatica:arcane_dirty_dust"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "emendatusenigmatica",
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "A": {
+      "item": "emendatusenigmatica:sulfur_axe"
+    },
+    "P": {
+      "item": "emendatusenigmatica:sulfur_pickaxe"
+    },
+    "S": {
+      "item": "emendatusenigmatica:sulfur_shovel"
+    }
+  },
+  "pattern": [
+    "PAS",
+    " # ",
+    " # "
+  ],
+  "result": {
+    "item": "emendatusenigmatica:sulfur_paxel"
+  }
+}

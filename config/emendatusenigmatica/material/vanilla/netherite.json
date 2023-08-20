@@ -1,0 +1,42 @@
+{
+  "id": "netherite",
+  "source": "vanilla",
+  "localizedName": "Netherite",
+  "disableDefaultOre": true,
+  "processedTypes": [
+    "storage_block",
+    "ingot",
+    "nugget",
+    "dust",
+    "plate",
+    "gear",
+    "rod",
+    "sword",
+    "pickaxe",
+    "axe",
+    "shovel",
+    "hoe",
+    "paxel",
+    "helmet",
+    "chestplate",
+    "leggings",
+    "boots",
+    "fluid",
+    "slurry",
+    "gas"
+  ],
+  "properties": {
+    "materialType": "metal",
+    "harvestLevel": 2,
+    "isEmissive": true
+  },
+  "oreDrop": {
+    "drop": "emendatusenigmatica:raw_netherite",
+    "min": 1,
+    "max": 1
+  },
+  "colors": {
+    "fluidColor": "FCF578",
+    "gasColor":"FCF578"
+  }
+}
