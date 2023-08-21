@@ -75,16 +75,16 @@
 				y = 2147483647
 
 			[client.gui.window.crafting0]
-				x = 2147483647
-				y = 2147483647
+				x = -188
+				y = 61
 
 			[client.gui.window.crafting1]
-				x = 2147483647
-				y = 2147483647
+				x = -259
+				y = 161
 
 			[client.gui.window.crafting2]
-				x = 2147483647
-				y = 2147483647
+				x = -117
+				y = 227
 
 			[client.gui.window.mekaSuitHelmet]
 				x = 2147483647
@@ -123,5 +123,5 @@
 		itemViewerSlotsX = 8
 		#Number of slots to view vertically on a QIO Item Viewer.
 		#Range: 2 ~ 48
-		itemViewerSlotsY = 4
+		itemViewerSlotsY = 8
 

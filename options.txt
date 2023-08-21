@@ -29,7 +29,7 @@ gamma:1.0
 renderDistance:12
 simulationDistance:12
 entityDistanceScaling:1.0
-guiScale:5
+guiScale:6
 particles:0
 maxFps:120
 graphicsMode:1
@@ -120,6 +120,9 @@ key_key.jade.show_recipes:key.keyboard.keypad.3
 key_key.jade.show_uses:key.keyboard.keypad.4
 key_key.jade.narrate:key.keyboard.keypad.5
 key_key.jade.show_details:key.keyboard.left.shift
+key_key.ae2.portable_item_cell:key.keyboard.unknown
+key_key.ae2.portable_fluid_cell:key.keyboard.unknown
+key_key.ae2.wireless_terminal:key.keyboard.unknown
 key_key.curios.open.desc:key.keyboard.g
 key_tetra.toolbelt.binding.access:key.keyboard.b
 key_tetra.toolbelt.binding.restock:key.keyboard.b:SHIFT
@@ -135,6 +138,7 @@ key_key.mekanism.description:key.keyboard.n:SHIFT
 key_key.mekanism.module_tweaker:key.keyboard.backslash
 key_key.mekanism.key_boost:key.keyboard.left.control
 key_key.mekanism.key_hud:key.keyboard.h
+key_key.gravitationalmodulatingunittweaks.vertical_speed:key.keyboard.unknown
 key_key.mekanismadditions.voice:key.keyboard.u
 key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
