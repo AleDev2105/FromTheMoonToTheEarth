@@ -1,0 +1,21 @@
+{
+    "Restriction Data": {
+        "itemList": [
+            { "item": "ad_astra:moon_stone" },
+            { "item": "ad_astra:moon_sand" }
+        ]
+    },
+    "Settings": {
+        "advancedTooltips": "ALWAYS",
+        "itemTitle": "Unavailable Item",
+        "pickupDelay": 15,
+        "hideInJEI": true,
+        "canPickup": false,
+        "containerListWhitelist": false,
+        "checkPlayerInventory": true,
+        "checkPlayerEquipment": true,
+        "destroyableBlocks": false,
+        "usableItems": false,
+        "usableBlocks": false
+    }
+}
