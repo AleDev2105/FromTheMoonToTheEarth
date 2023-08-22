@@ -7,8 +7,8 @@
         ]
     },
     "Settings": {
-        "advancedTooltips": "ADVANCED",
-        "itemTitle": "Unavailable Item",
+        "advancedTooltips": "ALWAYS",
+        "itemTitle": "§4Unavailable Item",
         "pickupDelay": 15,
         "hideInJEI": true,
         "canPickup": false,
