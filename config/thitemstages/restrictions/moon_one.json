@@ -1,12 +1,13 @@
 {
     "Restriction Data": {
+        "stage": "moon_one",
         "itemList": [
             { "item": "ad_astra:moon_stone" },
             { "item": "ad_astra:moon_sand" }
         ]
     },
     "Settings": {
-        "advancedTooltips": "ALWAYS",
+        "advancedTooltips": "ADVANCED",
         "itemTitle": "Unavailable Item",
         "pickupDelay": 15,
         "hideInJEI": true,
