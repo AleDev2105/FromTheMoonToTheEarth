@@ -9,6 +9,33 @@
       ],
       "bookmarks": [],
       "completedManualQuests": []
+    },
+    "ad_astra:astrodux": {
+      "viewedEntries": [
+        "ad_astra:the_moon/mars",
+        "ad_astra:the_moon/lunarians",
+        "ad_astra:the_moon/cables",
+        "ad_astra:the_moon/oxygen_distributor",
+        "ad_astra:the_moon/space_station",
+        "ad_astra:the_moon/solar_panel",
+        "ad_astra:the_moon/rover",
+        "ad_astra:the_first_launch/basic_materials",
+        "ad_astra:the_first_launch/your_first_rocket",
+        "ad_astra:the_first_launch/fuel",
+        "ad_astra:the_first_launch/oxygen",
+        "ad_astra:the_first_launch/preparing_to_launch",
+        "ad_astra:the_first_launch/the_moon",
+        "ad_astra:surviving_mars/trophies",
+        "ad_astra:surviving_mars/fluid_pipes",
+        "ad_astra:surviving_mars/energizer",
+        "ad_astra:surviving_mars/better_fuel",
+        "ad_astra:surviving_mars/netherite_space_suit",
+        "ad_astra:surviving_mars/venus_and_mercury",
+        "ad_astra:the_hot_planets/jet_suit",
+        "ad_astra:the_hot_planets/proxima_centauri"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
     }
   }
 }

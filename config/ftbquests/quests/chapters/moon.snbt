@@ -99,6 +99,59 @@
 			x: 0.0d
 			y: 1.5d
 		}
+		{
+			dependencies: ["59C08063004F5CA3"]
+			description: ["Use your exploring skills to found a particular structure on the moon surface: the LUNAR TOWER. Lunar Tower is a particular structure when you can find lunarian villagers that trade with you."]
+			icon: "minecraft:glass"
+			id: "56FE1D92D256A4F5"
+			subtitle: "Lunar Surface Research"
+			tasks: [{
+				id: "3B3AE0072F68C631"
+				structure: "ad_astra:lunar_tower"
+				title: "Structure - Locate a Lunar Tower"
+				type: "structure"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			dependencies: ["59C08063004F5CA3"]
+			description: ["Simply a village, but on the Moon. You find only a little structure of glass because is an underground village."]
+			id: "0DA4AE435C7C2226"
+			subtitle: "Lunar Surface Research"
+			tasks: [{
+				id: "38ECEDFD5C19B5F6"
+				structure: "ad_astra:lunarian_village"
+				title: "Structure - Locate a Lunarian Village"
+				type: "structure"
+			}]
+			x: 1.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["59C08063004F5CA3"]
+			description: [
+				"- Fast ladder"
+				"- FTB Ultimine"
+				"- Steps (not vanilla auto-jump)"
+			]
+			icon: {
+				Count: 1b
+				id: "emendatusenigmatica:enigmatic_hammer"
+				tag: {
+					Damage: 0
+				}
+			}
+			id: "62678BA1FCE1D8BE"
+			subtitle: "Some utilities mod that can help you"
+			tasks: [{
+				id: "415703E242B5BFB4"
+				title: "Utilities"
+				type: "checkmark"
+			}]
+			x: 1.5d
+			y: 0.0d
+		}
 	]
 	title: "Moon"
 }
