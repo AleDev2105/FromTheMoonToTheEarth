@@ -2,6 +2,18 @@
   "bookGuiScale": 0,
   "clickedVisualize": false,
   "bookData": {
+    "extendedcrafting:guide": {
+      "viewedEntries": [
+        "extendedcrafting:crafting/tables",
+        "extendedcrafting:crafting/ender_crafting",
+        "extendedcrafting:crafting/flux_crafting",
+        "extendedcrafting:crafting/auto_tables",
+        "extendedcrafting:crafting/compression",
+        "extendedcrafting:crafting/combination"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
     "thermal:guidebook": {
       "viewedEntries": [
         "thermal:technology/65_items",
