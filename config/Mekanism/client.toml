@@ -123,5 +123,5 @@
 		itemViewerSlotsX = 8
 		#Number of slots to view vertically on a QIO Item Viewer.
 		#Range: 2 ~ 48
-		itemViewerSlotsY = 8
+		itemViewerSlotsY = 7
 

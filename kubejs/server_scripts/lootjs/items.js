@@ -10,5 +10,7 @@ ItemEvents.rightClicked('kubejs:tome_of_knowledge', event => {
 
     if (itemNBT != null) {
         event.server.runCommand(`thitemstages add @p ${itemNBT}`)
+    } else {
+        event.player.tell('')
     }
 })

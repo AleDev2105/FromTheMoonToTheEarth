@@ -9,6 +9,7 @@
 	quest_links: [ ]
 	quests: [
 		{
+			icon: "ad_astra:moon_sand"
 			id: "59C08063004F5CA3"
 			tasks: [{
 				dimension: "ad_astra:moon"
@@ -36,8 +37,8 @@
 				title: "Space suit"
 				type: "checkmark"
 			}]
-			x: 0.0d
-			y: -1.5d
+			x: 0.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["59C08063004F5CA3"]
@@ -48,8 +49,8 @@
 				item: "ad_astra:moon_globe"
 				type: "item"
 			}]
-			x: -1.5d
-			y: 0.0d
+			x: -0.5d
+			y: -2.5d
 		}
 		{
 			dependencies: ["59C08063004F5CA3"]
@@ -63,7 +64,7 @@
 				type: "checkmark"
 			}]
 			title: "Custom mechanics"
-			x: -1.0d
+			x: -2.0d
 			y: -1.0d
 		}
 		{
@@ -76,8 +77,8 @@
 				title: "Mission: return to the Earth"
 				type: "checkmark"
 			}]
-			x: -1.0d
-			y: 1.0d
+			x: -1.5d
+			y: -2.0d
 		}
 		{
 			dependencies: ["59C08063004F5CA3"]
@@ -96,12 +97,12 @@
 				type: "checkmark"
 			}]
 			title: "Everything is custom"
-			x: 0.0d
-			y: 1.5d
+			x: -2.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["59C08063004F5CA3"]
-			description: ["Use your exploring skills to found a particular structure on the moon surface: the LUNAR TOWER. Lunar Tower is a particular structure when you can find lunarian villagers that trade with you."]
+			description: ["Use your exploring skills to found a particular structure on the moon surface: the LUNAR TOWER. Lunar Tower is a formation when you can find lunarian villagers that trade with you."]
 			icon: "minecraft:glass"
 			id: "56FE1D92D256A4F5"
 			subtitle: "Lunar Surface Research"
@@ -111,12 +112,13 @@
 				title: "Structure - Locate a Lunar Tower"
 				type: "structure"
 			}]
-			x: 1.0d
-			y: -1.0d
+			x: 2.0d
+			y: 0.0d
 		}
 		{
 			dependencies: ["59C08063004F5CA3"]
 			description: ["Simply a village, but on the Moon. You find only a little structure of glass because is an underground village."]
+			icon: "ad_astra:glowing_iron_pillar"
 			id: "0DA4AE435C7C2226"
 			subtitle: "Lunar Surface Research"
 			tasks: [{
@@ -125,8 +127,8 @@
 				title: "Structure - Locate a Lunarian Village"
 				type: "structure"
 			}]
-			x: 1.0d
-			y: 1.0d
+			x: 2.0d
+			y: -1.0d
 		}
 		{
 			dependencies: ["59C08063004F5CA3"]
@@ -150,7 +152,7 @@
 				type: "checkmark"
 			}]
 			x: 1.5d
-			y: 0.0d
+			y: -2.0d
 		}
 	]
 	title: "Moon"
