@@ -79,6 +79,11 @@
   "extendedcrafting:auto_ender_crafter": null,
   "extendedcrafting:flux_crafter": null,
   "extendedcrafting:compressor": null,
+  "mekanism:data_provider": null,
+  "mekanism:entity_data_provider": null,
+  "mekanism:tooltip_renderer": null,
+  "mekanism:remove_builtin": null,
+  "ars_nouveau:mob_jar": null,
   "minecraft:brewing_stand": null,
   "minecraft:beehive": null,
   "minecraft:command_block": null,
@@ -128,9 +133,5 @@
   "ae2:part_name": null,
   "ae2:part_icon": null,
   "ae2:part_tooltip": null,
-  "ae2:part_mod_name": null,
-  "mekanism:data_provider": null,
-  "mekanism:entity_data_provider": null,
-  "mekanism:tooltip_renderer": null,
-  "mekanism:remove_builtin": null
+  "ae2:part_mod_name": null
 }

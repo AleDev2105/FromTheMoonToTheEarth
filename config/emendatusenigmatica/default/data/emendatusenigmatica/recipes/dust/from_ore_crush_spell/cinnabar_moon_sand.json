@@ -1,0 +1,19 @@
+{
+  "type": "ars_nouveau:crush",
+  "group": "emendatusenigmatica:compat_recipe",
+  "input": {
+    "item": "emendatusenigmatica:cinnabar_moon_sand_ore"
+  },
+  "output": [
+    {
+      "chance": 1.0,
+      "count": 2,
+      "item": "emendatusenigmatica:cinnabar_dust"
+    },
+    {
+      "chance": 1.0,
+      "count": 1,
+      "item": "ad_astra:moon_sand"
+    }
+  ]
+}

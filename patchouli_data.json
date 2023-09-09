@@ -48,6 +48,14 @@
       ],
       "bookmarks": [],
       "completedManualQuests": []
+    },
+    "ars_nouveau:worn_notebook": {
+      "viewedEntries": [
+        "arsomega:items/enchanted_diamond_apple",
+        "arsomega:items/infused_diamonds"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
     }
   }
 }

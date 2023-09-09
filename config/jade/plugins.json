@@ -61,6 +61,9 @@
     "mob_spawner": true,
     "redstone": true
   },
+  "ars_nouveau": {
+    "mob_jar": true
+  },
   "mekanism": {
     "infuse_type": true,
     "gas": true,
