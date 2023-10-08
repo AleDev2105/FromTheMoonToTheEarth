@@ -13,6 +13,7 @@
 			id: "59C08063004F5CA3"
 			tasks: [{
 				dimension: "ad_astra:moon"
+				icon: "ad_astra:moon_sand"
 				id: "2DF0640938918831"
 				title: "Welcome to the Moon..."
 				type: "dimension"
@@ -117,7 +118,7 @@
 		}
 		{
 			dependencies: ["59C08063004F5CA3"]
-			description: ["Simply a village, but on the Moon. You find only a little structure of glass because is an underground village."]
+			description: ["Simply a village, but on the Moon. You only find a little structure of glass because is an underground village."]
 			icon: "ad_astra:glowing_iron_pillar"
 			id: "0DA4AE435C7C2226"
 			subtitle: "Lunar Surface Research"
