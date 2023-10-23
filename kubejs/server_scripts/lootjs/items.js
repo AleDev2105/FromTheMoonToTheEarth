@@ -5,9 +5,10 @@ LootJS.modifiers(event => {
 })
 
 ItemEvents.rightClicked('kubejs:tome_of_knowledge', event => {
-    if (event.getItem().getNbtString() != 'null') {
-        var item = event.getItem().getNbtString() // output -> {Stage:"stage_name"}
-        var itemNBT = item.substring(8, item.length() - 2) // output -> stage_name
+    var itemNBT = event.item.nbtString // output -> {Stage:"stage_name"}
+
+    if (itemNBT != 'null') {
+        var itemStage = item.substring(8, itemNBT.length() - 2) // output -> stage_name
 
         //event.server.commandStorage(Internal.CommandStorage(`thitemstages check ${event.player.username}`))
         //var everyPlayerStages = event.server.getCommandStorage()
@@ -17,7 +18,7 @@ ItemEvents.rightClicked('kubejs:tome_of_knowledge', event => {
         //if (everyPlayerStages.find(element => element == itemNBT) != null) {
             //event.player.tell('AAA')
         //}
-        event.server.runCommand(`thitemstages add @p ${itemNBT}`)
+        event.server.runCommand(`thitemstages add @p ${itemStage}`)
     } else {
         event.player.tell('This tome has no stages to unlock')
     }
