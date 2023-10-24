@@ -32,7 +32,6 @@ PlayerEvents.loggedIn(event => {
       })
 
       event.player.tell('Initial setup successful')
-
     })
 
     // Equip armor
@@ -48,7 +47,7 @@ PlayerEvents.loggedIn(event => {
     //event.player.setOffHandItem()
     //event.player.give()
 
-    event.player.tell('Tools/Items given to the player')
+    event.player.tell(`Tools/Items given to the player ${event.player.name}`)
 
     // Add the stage
     event.player.stages.add('starting')
