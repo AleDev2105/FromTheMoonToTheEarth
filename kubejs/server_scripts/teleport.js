@@ -22,7 +22,7 @@ PlayerEvents.loggedIn(event => {
       let tpPos = playerPos.setY(tpY)
 
       // Teleport the player ...
-      event.player.teleportTo("ad_astra:moon",tpPos.x, tpPos.y + 1, tpPos.z, 0, 0)
+      event.player.teleportTo("ad_astra:moon", tpPos.x, tpPos.y + 1, tpPos.z, 0, 0)
 
       event.server.scheduleInTicks(40, () => {
         // ... and set the world spawn point after 2 seconds ...
