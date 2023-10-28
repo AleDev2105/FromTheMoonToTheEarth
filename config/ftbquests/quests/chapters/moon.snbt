@@ -58,6 +58,13 @@
 			description: ["- Stages"]
 			icon: "ad_astra:wrench"
 			id: "6C296793E09CDE50"
+			rewards: [{
+				auto: "invisible"
+				id: "26A08EDA7C3CB6A2"
+				ignore_reward_blocking: true
+				stage: "moon_base"
+				type: "gamestage"
+			}]
 			subtitle: "Custom mechanics added in this modpack"
 			tasks: [{
 				id: "34AC332DCD84E53B"
@@ -91,6 +98,17 @@
 				}
 			}
 			id: "15E6ACE8A162AB4C"
+			rewards: [{
+				id: "3CD3A45AB7BE880F"
+				item: {
+					Count: 1b
+					id: "emendatusenigmatica:iron_paxel"
+					tag: {
+						Damage: 0
+					}
+				}
+				type: "item"
+			}]
 			subtitle: "Custom items, tools, armors and much more..."
 			tasks: [{
 				id: "14E16990E9881B93"
@@ -106,6 +124,13 @@
 			description: ["Use your exploring skills to found a particular structure on the moon surface: the LUNAR TOWER. Lunar Tower is a formation when you can find lunarian villagers that trade with you."]
 			icon: "minecraft:glass"
 			id: "56FE1D92D256A4F5"
+			rewards: [{
+				auto: "invisible"
+				id: "7F0F7B5539D2C1B6"
+				ignore_reward_blocking: true
+				stage: "moon_lunar_tower"
+				type: "gamestage"
+			}]
 			subtitle: "Lunar Surface Research"
 			tasks: [{
 				id: "3B3AE0072F68C631"
@@ -121,6 +146,13 @@
 			description: ["Simply a village, but on the Moon. You only find a little structure of glass because is an underground village."]
 			icon: "ad_astra:glowing_iron_pillar"
 			id: "0DA4AE435C7C2226"
+			rewards: [{
+				auto: "invisible"
+				id: "1E53FC64DA573BC6"
+				ignore_reward_blocking: true
+				stage: "moon_lunarian_village"
+				type: "gamestage"
+			}]
 			subtitle: "Lunar Surface Research"
 			tasks: [{
 				id: "38ECEDFD5C19B5F6"

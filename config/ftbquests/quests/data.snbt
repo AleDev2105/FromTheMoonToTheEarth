@@ -7,6 +7,54 @@
 	detection_delay: 20
 	disable_gui: false
 	drop_loot_crates: false
+	emergency_items: [
+		{
+			Count: 1b
+			ForgeCaps: {
+				"cold_sweat:item_insulation": { }
+			}
+			id: "ad_astra:space_helmet"
+			tag: {
+				Damage: 0
+			}
+		}
+		{
+			Count: 1b
+			ForgeCaps: {
+				"cold_sweat:item_insulation": { }
+			}
+			id: "ad_astra:space_suit"
+			tag: {
+				BotariumData: {
+					StoredFluids: [{
+						Amount: 1000L
+						Fluid: "ad_astra:oxygen"
+					}]
+				}
+				Damage: 0
+			}
+		}
+		{
+			Count: 1b
+			ForgeCaps: {
+				"cold_sweat:item_insulation": { }
+			}
+			id: "ad_astra:space_pants"
+			tag: {
+				Damage: 0
+			}
+		}
+		{
+			Count: 1b
+			ForgeCaps: {
+				"cold_sweat:item_insulation": { }
+			}
+			id: "ad_astra:space_boots"
+			tag: {
+				Damage: 0
+			}
+		}
+	]
 	emergency_items_cooldown: 300
 	grid_scale: 0.5d
 	lock_message: ""
