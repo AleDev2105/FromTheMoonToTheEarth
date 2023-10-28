@@ -1,8 +1,12 @@
 ClientEvents.highPriorityAssets(event => {
 
     const fluidsEE = [
-        { id: 'aluminum', name: 'Aluminum' }
+        { id: 'iron', name: 'Iron' }
     ]
+
+    event.addLang('fluid.emendatusenigmatica.iron', 'Molten Iron') // YES
+    event.addLang('block.emendatusenigmatica.iron', 'Molten Iron') // ?
+    event.addLang('item.emendatusenigmatica.iron_bucket', 'Molten Iron Bucket') // NO
 
     // EE Fluid
     /*
