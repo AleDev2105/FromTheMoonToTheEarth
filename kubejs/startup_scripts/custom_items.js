@@ -1,8 +1,7 @@
-// priority: 0
-
-// Visit the wiki for more info - https://kubejs.com/
-
-console.info('Hello, World! (Loaded startup scripts)')
+/*
+    @author AleDev
+    CurseForge: https://legacy.curseforge.com/members/aledev
+*/
 
 //Platform.mods.emendatusenigmatica.name = 'KubeJS'
 
