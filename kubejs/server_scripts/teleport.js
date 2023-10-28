@@ -1,3 +1,8 @@
+/*
+    @author AleDev
+    CurseForge: https://legacy.curseforge.com/members/aledev
+*/
+
 let $HeightMapTypes = Java.loadClass('net.minecraft.world.level.levelgen.Heightmap$Types')
 
 PlayerEvents.loggedIn(event => {

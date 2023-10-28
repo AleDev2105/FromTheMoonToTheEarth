@@ -1,4 +1,9 @@
-// Ale2105 all right reserved - you CAN'T rewrite and redistribute with the explicit consents the code lines written in this file.
+/*
+    @author AleDev
+    CurseForge: https://legacy.curseforge.com/members/aledev
+
+    AleDev all right reserved - you CAN'T rewrite and redistribute with the explicit consents the code lines written in this file.
+*/
 
 const $Restriction = Java.loadClass('net.darkhax.itemstages.Restriction')
 const $RestrictionManager = Java.loadClass('net.darkhax.itemstages.RestrictionManager')
