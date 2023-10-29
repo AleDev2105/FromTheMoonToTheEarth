@@ -1,3 +1,8 @@
+/*
+    @author AleDev
+    CurseForge: https://legacy.curseforge.com/members/aledev
+*/
+
 ClientEvents.highPriorityAssets(event => {
 
     const fluidsEE = [

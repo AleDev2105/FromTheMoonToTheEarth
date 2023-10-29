@@ -1,3 +1,8 @@
+/*
+    @author AleDev
+    CurseForge: https://legacy.curseforge.com/members/aledev
+*/
+
 ItemEvents.tooltip(event => {
     event.addAdvanced('kubejs:tome_of_knowledge', (object, _, text) => {
         if(object.getNbtString() != 'null') {
