@@ -14,7 +14,7 @@ ItemEvents.rightClicked('kubejs:tome_of_knowledge', event => {
 
     if (itemNBT != 'null') {
         var itemStage = item.substring(8, itemNBT.length() - 2) // output -> stage_name
-        event.server.runCommand(`thitemstages add @p ${itemStage}`)
+        event.server.runCommand(`gamestage add ${event.player.username} ${itemStage}`)
     } else {
         event.player.tell('This tome has no stages to unlock')
     }
